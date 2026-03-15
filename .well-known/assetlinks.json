@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.brucewolfe.meadery",
+        "sha256_cert_fingerprints": ["9F:F7:DD:74:A9:11:34:CC:02:A8:1B:68:17:C3:0A:52:8C:E4:B6:80:0C:2F:3B:45:7E:67:FE:04:FB:57:12:19"]
+      }
+    }]
